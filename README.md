@@ -1,8 +1,8 @@
 # Hi 👋 I'm Reyhane
 
-🎓 Bootostart student
-💻 Design-oriented towards developing applications and modern ones 
-🌱 On the way to becoming a professional Front-end Developer
+🎓 Botostart student <br>
+💻 Interested in developing user interfaces and modern designs <br>
+🌱 On the Path to Becoming a Professional Front-End Developer
 
 ## 🛠️ Skills
 - HTML5 / CSS3 
@@ -10,6 +10,6 @@
 - Responsive Design
 - Currently: JavaScript, TailwindCSS
 
-## 📁 Featured projects
+## 📁 Featured Projects
 
-| Bootstart Bootcamp Week 2 | HTML, CSS, JS | [View project](https://reyhaneh-nasiri.github.io/botostart-bootcamp-week2/) |
+| Botostart Bootcamp Week 2 | HTML, CSS, JS | [View project](https://reyhaneh-nasiri.github.io/botostart-bootcamp-week2/) |
