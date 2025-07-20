@@ -12,4 +12,4 @@
 
 ## 📁 پروژه‌های منتخب
 
-| تمرین بوتواستارت هفته ۲ | HTML, CSS, JS | [https://github.com/Reyhaneh-Nasiri/botostart-bootcamp-week2](https://reyhaneh-nasiri.github.io/botostart-bootcamp-week2/) |
+| تمرین بوتواستارت هفته ۲ | HTML, CSS, JS | [مشاهده پروژه](https://reyhaneh-nasiri.github.io/botostart-bootcamp-week2/) |
