@@ -1,7 +1,7 @@
 # Hi 👋 I'm Reyhane
 
 🎓 Botostart student <br>
-💻 Interested in developing user interfaces and modern designs <br>
+💻 Interested in developing user interfaces and modern designs 
 🌱 On the Path to Becoming a Professional Front-End Developer
 
 ## 🛠️ Skills
