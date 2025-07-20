@@ -8,7 +8,7 @@
 - HTML5 / CSS3 
 - Git / GitHub
 - Responsive Design
-- Currently: JavaScript, TailwindCSS
+- Currently learning: JavaScript, TailwindCSS
 
 ## 📁 Featured Projects
 
