@@ -1,4 +1,4 @@
-# Hi 👋 I'm Reyhaneh / سلام من ریحانه هستم.
+# Hi 👋 I'm Reyhaneh 
 
 🎓 Botostart student <br>
 💻 Interested in developing user interfaces and modern designs <br>
