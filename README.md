@@ -9,6 +9,7 @@
 - Git / GitHub
 - Responsive Design
 - Currently: JavaScript, TailwindCSS
+- :sparkles:، :tada:،  :rocket:
 
 ## 📁 Featured Projects
 
