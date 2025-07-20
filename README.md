@@ -1,15 +1,15 @@
-# سلام 👋 من ریحانه هستم
+# Hi 👋 I'm Reyhane
 
-🎓 دانشجوی بوتواستارت (Bootostart)  
-💻 علاقه‌مند به توسعه رابط کاربری و طراحی‌های مدرن  
-🌱 در مسیر تبدیل شدن به یک Front-end Developer حرفه‌ای
+🎓 Bootostart student
+💻 Design-oriented towards developing applications and modern ones 
+🌱 On the way to becoming a professional Front-end Developer
 
-## 🛠️ مهارت‌ها
+## 🛠️ Skills
 - HTML5 / CSS3 
 - Git / GitHub
 - Responsive Design
-- در حال یادگیری: JavaScript, TailwindCSS
+- Currently: JavaScript, TailwindCSS
 
-## 📁 پروژه‌های منتخب
+## 📁 Featured projects
 
-| تمرین بوتواستارت هفته ۲ | HTML, CSS, JS | [مشاهده پروژه](https://reyhaneh-nasiri.github.io/botostart-bootcamp-week2/) |
+| Bootstart Bootcamp Week 2 | HTML, CSS, JS | [View project](https://reyhaneh-nasiri.github.io/botostart-bootcamp-week2/) |
